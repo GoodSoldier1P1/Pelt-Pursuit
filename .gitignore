@@ -1,0 +1,24 @@
+# Ignore Unity temp and library files
+[Tt]emp/
+[Ll]ibrary/
+[Ll]ogs/
+[Ss]ysCache/
+[Mm]emoryCaptures/
+[Bb]uilds/
+[Oo]bj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+.idea/
+.vscode/
+.vscode/*
+.vscode/settings.json
